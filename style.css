@@ -1,0 +1,51 @@
+  .heading
+  {
+    width: 100%;
+    margin: 0px;
+    box-shadow:5px 5px 5px grey;
+  }
+
+  
+  .heading_div2
+  {
+    font-size: 18px ;
+  }
+  .result_para_tag
+  {
+    box-shadow:5px 5px 5px grey;
+    font-size: 20px;
+  }
+  body{
+    font-family: 'Special Elite', cursive;
+    font-weight: bolder;
+    color: #ffffff;
+    background-image: url(bg.jpg);
+    }
+    div{
+        background-image: linear-gradient(to right top, #996f06, #b8860b, #daa520, #daa720, #ffd700);
+        float:none
+    }
+    .copy_right_footer{
+        position:fixed;
+        bottom:0;
+        background-image: linear-gradient(to right top, #ffffff, #ff0000, #ff6600, #ffd900, #09ff00);
+        font-size: 30px;
+        width: 100%;
+        text-align: center;
+        line-height: 1;
+    }
+    .rpt{
+        box-shadow: 5px 5px 10px black;
+        font-size: 30px;
+        background-image: linear-gradient(to right top, #996f06, #b8860b, #daa520, #daa720, #ffd700);
+
+        
+    }
+    canvas{
+        border: 5px solid darkgoldenrod;
+        border-radius: 20px;
+        box-shadow: 25px 25px 25px darkgoldenrod;
+        margin-top: 180px;
+        
+    }
+ 
